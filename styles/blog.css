@@ -2,4 +2,7 @@ div{
     background-color: brown;
     padding:10px;
     margin-bottom:5px;
+    font-size: larger;
+    font-weight: 400px;
+    font-style: italic;
 }
